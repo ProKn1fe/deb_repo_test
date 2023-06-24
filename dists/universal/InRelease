@@ -8,34 +8,34 @@ Codename: universal
 Architectures: amd64 i386
 Components: main
 Description: Universal nginx repository
-Date: Sat, 24 Jun 2023 12:31:31 +0000
+Date: Sat, 24 Jun 2023 13:00:13 +0000
 MD5Sum:
- 08d8dcc689cbba164de7d4d5658223e1              234 Release
- 7079e96a6908c25c7b8da912a2bf7b4c              611 main/binary-amd64/Packages
- 348f427f007e3b220b15c440a1a7c38e              451 main/binary-amd64/Packages.gz
+ 23423d31dd0b7d6307290d0db439324f              234 Release
+ 468b879fa2450b1dd5b23e27d682f440              610 main/binary-amd64/Packages
+ 4266ca14aaea48c057890cb4c0a50705              449 main/binary-amd64/Packages.gz
 SHA1:
- 2436a46dbb8daae984362497f323e42c8439bda8              234 Release
- 3171f612f3500a1dd525d94627be60b3860f5174              611 main/binary-amd64/Packages
- a609e881b2350d8391d151258c7e695ff8e85e25              451 main/binary-amd64/Packages.gz
+ 06ba18f969469116e245fbb34fd0368d43b620fb              234 Release
+ 877aa6cab5e9719fa82edb7949ed2e6cd90b5e41              610 main/binary-amd64/Packages
+ eb2a6e22b8cb259782b1f719d44f43b1f2cfd0dd              449 main/binary-amd64/Packages.gz
 SHA256:
- 0eb1abe094ca5425422b94da55dcc166414c7d242327fef69205134ff3549dda              234 Release
- 3b2a8c0dcc0732ca60f443f0e2f0f487524e9a5cc4d976a9f2dcb9393fa7cb8f              611 main/binary-amd64/Packages
- 6bfc2ddc27d057d38dd00261023b7042b31df19fe15a6f7cbc7a14ff7690d3bb              451 main/binary-amd64/Packages.gz
+ 58b0b70a9b784b36bf4baca252ae066c0f50a88e22c5afbf206103cbe21a1771              234 Release
+ ae556d9f5da6fa1d3c7a92a0d616b6a1186457819c26305cac19e332d050723c              610 main/binary-amd64/Packages
+ 4051d28243217a6a16c0b641f535e6800878e5ede4f96d5a3a566c7c07ae0957              449 main/binary-amd64/Packages.gz
 SHA512:
- d380f3adb716c5fb7f8217fd87e006243b0dcf57fdf8cf9a6f0d141adb6ac6da3a57fc23016fb9ffeb558808c915b64e00cf5ad93d549a4488a18ac0095e58ac              234 Release
- d2c9051c4b2a9437a37ac685e02495fb01c60209c3170fd2b0770949ee580ba9c37d1e627896d6515cd787892f124418ceab1f3aff4b5a24664697bdb95d98a3              611 main/binary-amd64/Packages
- cf6a3c9e2adda3340b560c1f193eb181da36b6720be18ac85d771e05e59d041b06e763117c56782b7cb7b137d398d28d27933fbfcbe5747ae3037bbb7e2e4fcd              451 main/binary-amd64/Packages.gz
+ 880c136b16d52d0967c00e781a3ae29dbc6e7f732d7d77777a6d9c53fb6d77c466cc7d35a6462e945023018f027aba8536a3ba99db95cd7dd53181b3cbf0f651              234 Release
+ 74949d70a8283ba797e5bb915de8d7492e369896ee9132cd0a9b5aa8997230ed91401bdb0c19da2ee147976af5efc5c3cf6bae64e1f32f77228249bc86301da9              610 main/binary-amd64/Packages
+ b4319f29ac1d3b95e5cc6baaef878a4edfc3d9c08fb12e4a001d6f0da7c984e1cf061b7354ecf9a9e22d99d800cf7618c5f6664140a247dceba9b034e265f477              449 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEEJgn4tfUA1HHPCQjKAHCVOY/lKkFAmSW4iMACgkQKAHCVOY/
-lKnMTwv+M3HX4ggUrkyJWRZgXHVsWfH2mGvFAaNGFskQnOOOHe2TN8GGZ+goX7uH
-lCUJkYG1Sbg+hG+mbaDsHKz0a4zkIe7AWpElmevAML2955jbaIfTMtgsupC1tVB3
-BvC+hT0fJJMLhhYMrpVCdkmt9vEA3sFs7pYOlkkL3ty9ox20utah9iq8nEewK1Lw
-bbqJ1YyUU3lT26yhYYjpCRvTSivEC/OaapJkxXODEwr9iuOqC2jAD+kifBd1w0r0
-1tK3JhOLkk5BdvkwosQD2AqSMj5MW2c2hZ/nbkHHjO4RCx+voXTSzroIHJlMTM57
-8ukYxgaFKabslxD0nXZNYraF3SWAmpCT8FClMqTW+2igxygTBSO2SJICn73cu4Rg
-ukGvQVybfJoWJUC1KLxdq91r4fa46Z22YK59sSMrNw9MN+uF3hpGuzfNMSPvyCAT
-o+7kEvz7ikuYKQvPOeDviFMNrQhO3GSMQ1gzj8M8K8X0WpKG+xWhlxoZ7d1dR7fz
-ZdRpTkcP
-=e/1k
+iQGzBAEBCgAdFiEEEJgn4tfUA1HHPCQjKAHCVOY/lKkFAmSW6N0ACgkQKAHCVOY/
+lKkuJgv/Yj7ejK53weKrQeiuqREzq11l2sQh9LH5hoi+fda7Gfs2tmd5oSWfsR+j
+1vFDMJQ8i5zV3u5Y1bEL3N/v/zDm5t4HRGU8Jg4J0DuuJcKDxcScefB+YlI2UYXe
+l/0Lx4TrcC3AUi7AwVMVJZ3NF7g5BoymKAlWzKhMJARgNIZERt5CB7GE5CFXGYtv
+EE6Ttr3fnsCtvaZkb7xS5jKRhz02Nw+IPIG4oGHrvJ6nD4TG9IKqGtCUojJq4198
+GteKkNjy0gQDKKX2B1o4yBgJ3Z1fRErUGBfrT1kBJpetCZm/D8gmpgxb0jvXgYse
+ws7wcLVkwRpm4ogptVJzhwtAxnjMtN7CGQPoFonjwSzU1iB8NMNTCKIoaln2Dv7p
+N06tqoRgFEuSotFzNOYF5hnxLoSC+NSHCIFfHlhFuj5mpaVBZetpfjyNFiF42ZPs
+Qss5cRksr+/BWh9+dv2K4oXz7+lKZX37SEJZozL433u5rSmNRZeJVhGNrBn03TDx
+fwh5EPMA
+=ooL5
 -----END PGP SIGNATURE-----

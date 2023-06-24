@@ -6,12 +6,12 @@ Essential: no
 Section: unknown
 Maintainer: Zuev Aleksandr <A.Zuev@stdev.su>
 Installed-Size: 20
-Depends: nginx (>= 1.25.1)
+Depends: nginx (= 1.25.1)
 Filename: pool/main/nginx-brotli/nginx-brotli_1.25.1_amd64.deb
-Size: 995606
-MD5sum: b1f326f2089449ef3b0d6a779d22b79d
-SHA1: ca9975baa8ca6628d0b670b8d35b92a387aef08a
-SHA256: 23777ecc8fe2e59071931811cd740febda2046297f8e00467ee048a65c8cee3e
-SHA512: 52af3ad1dbe08faa596e5fcb52c8857314a212ebce6639f352eb633dba7205306198bb6a048d5deb5bdc0308648426584fc49a41a692b51970476148b636d1f8
+Size: 996580
+MD5sum: 3504470146a432189319dd157530b669
+SHA1: 2700f46105f64e0c5e20488db475efffc45ac52a
+SHA256: e6aac5710ec5ad367aee07a2284d47f78292ea33bae9c2f6b991c62a3679c9c9
+SHA512: 0dc7851c73c014a483396daadc2e0ff98517c09fc3528e9466311870a6976c220b6c9743f5fabc5ab4967abf44b67af39076f43d95c7ee58a281ed626277292b
 Description: Brotli module for nginx
 
