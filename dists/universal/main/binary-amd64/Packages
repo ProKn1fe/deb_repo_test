@@ -1,0 +1,17 @@
+Package: nginx-brotli
+Architecture: amd64
+Version: 1.25.1
+Priority: optional
+Essential: no
+Section: unknown
+Maintainer: losst.pro <admin@losst.pro>
+Installed-Size: 20
+Depends: nginx (>= 1.25.1)
+Filename: pool/main/nginx/nginx_1.25.1_amd64.deb
+Size: 994816
+MD5sum: 61575817124a220b43d5c20a60663700
+SHA1: a5264b21cc437bb65878b5b4176f92a267d5f6de
+SHA256: 508e0922e127ae1d78e0d857893c0d4feab68f1adc6b28690662025174560ad7
+SHA512: fc3307a97d85c9aa9f6af62d2d2a5d439511dacabab726c86c83dad2eec031c8a1f55354b22ce72d0f9a2c20e81a94d9e13eda94ab2fa5421a8c6694735ec923
+Description: Print hello from losst line
+
