@@ -4,31 +4,14 @@ Version: 1.25.1
 Priority: optional
 Essential: no
 Section: unknown
-Maintainer: losst.pro <admin@losst.pro>
+Maintainer: Zuev Aleksandr <A.Zuev@stdev.su>
 Installed-Size: 20
 Depends: nginx (>= 1.25.1)
 Filename: pool/main/nginx-brotli/nginx-brotli_1.25.1_amd64.deb
-Size: 994812
-MD5sum: a85cbec7384ada56d7e17ec4ac240306
-SHA1: e7cec4cdff70b74fdb6ed239f48aadbf594e8ff0
-SHA256: 83f56ac389f59a8dca33121e1152a0aeb7a7d428cfbc0d9c297700d498e402a0
-SHA512: aacd2f42444f4b091666bbdbc7e500a93e6aecb351473061394b4846f225c56e2f5a1187551d5952059c92822c77ccce2cf46f2af94285a2c97827b7a01aff7b
-Description: Print hello from losst line
-
-Package: nginx-brotli
-Architecture: amd64
-Version: 1.25.1
-Priority: optional
-Essential: no
-Section: unknown
-Maintainer: losst.pro <admin@losst.pro>
-Installed-Size: 20
-Depends: nginx (>= 1.25.1)
-Filename: pool/main/nginx-brotli/nginx_1.25.1_amd64.deb
-Size: 994812
-MD5sum: 5f4d9aabfdb852f0deec4020eb162b34
-SHA1: 886d071d42ed419b99f47afa14721e1e0029f101
-SHA256: 1a0fbe1976cb47405d867e0ee08dd0da3a9c36ce791ff66317385c51a247e624
-SHA512: 23b35705304070aa0b6ddcb96b6506030ce86a3184ac1a87e83445a0c27750caaf529ccd8dcd76a9832e2d4c8cd0fa2bf546591d4275b8b39ac58f7b4aca6298
-Description: Print hello from losst line
+Size: 995606
+MD5sum: b1f326f2089449ef3b0d6a779d22b79d
+SHA1: ca9975baa8ca6628d0b670b8d35b92a387aef08a
+SHA256: 23777ecc8fe2e59071931811cd740febda2046297f8e00467ee048a65c8cee3e
+SHA512: 52af3ad1dbe08faa596e5fcb52c8857314a212ebce6639f352eb633dba7205306198bb6a048d5deb5bdc0308648426584fc49a41a692b51970476148b636d1f8
+Description: Brotli module for nginx
 
