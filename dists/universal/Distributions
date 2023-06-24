@@ -1,0 +1,7 @@
+Origin: prokn1fe.github.io/deb_repo_test
+Label: universal repository
+Suite: universal
+Codename: universal
+Architectures: amd64 i386
+Components: main
+Description: Universal nginx repository

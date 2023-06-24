@@ -1,0 +1,41 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: prokn1fe.github.io/deb_repo_test
+Label: universal repository
+Suite: universal
+Codename: universal
+Architectures: amd64 i386
+Components: main
+Description: Universal nginx repository
+Date: Sat, 24 Jun 2023 10:19:56 +0000
+MD5Sum:
+ 66704e2a8fa5bb276a673e325f8f1386              234 Release
+ 95397463f17523511de1c8d8ac62341e              596 main/binary-amd64/Packages
+ 94af96367967164c6e3a626ff29152f1              441 main/binary-amd64/Packages.gz
+SHA1:
+ 88a2a8a9eab80ee8b74aa092d6b12fc7372a9542              234 Release
+ 6ef8bad76d036a391d2cd6a98ccb1caf7e51220e              596 main/binary-amd64/Packages
+ d0630db1087192ec85aa7439c17defad90a547d1              441 main/binary-amd64/Packages.gz
+SHA256:
+ 707d5159d61174cf1152e93f2e2a361829a083329e169a156d57a6e3565eda38              234 Release
+ 4a8ca0f6072b5a56a436c14b54497326d4143e29238132a3603e1b0ce1fb67bc              596 main/binary-amd64/Packages
+ 1f04a5650e5ce92836133dfcc677143d32345918363ece524df9f0bef0a82765              441 main/binary-amd64/Packages.gz
+SHA512:
+ 2ec9d53c9b9de6d331a598d4a70e1c95c32ac6cfb34f2557920f49235adb1b5c17906ecbdd8f50696c5588b08ba0ca92b58e0b5416de03f4a468193c94b728a8              234 Release
+ 3510fa3641fb6ccc96b19040a421b5481cd4abb4a2b977a5a07cc034fa02ad22359925f9f1b6c1079ece77b05358d6630f25a3c5b3531224192e81098ae0249a              596 main/binary-amd64/Packages
+ 25b2d1aa62a7f0bc2529fbf3dc91bec76a5d7ebaf270172f9b02cb7479148b280c1ff3ea1b7f7b3a9296659e669ef9716f1c659a54af2e6dac4e1d282d72afc8              441 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEEJgn4tfUA1HHPCQjKAHCVOY/lKkFAmSWw0wACgkQKAHCVOY/
+lKldzQv+MooIO+rXug36sTLEdWV8enJ3NOgAEaOpOulR4xf0ti6VgQD/K7NDu5Mj
+juuAhvAToERnrVfRQHJQulRMuoP8z0ucBERoH5pOsn1W7YfApH3szZN+10sGzRS5
+Rv29+bxz6m++Uwy/S3WyOL6geEK8sCVgBd06j1RGXs1YLq12BDpKdImLabNHylhQ
+V1lg2TrdX/vyPGXDI3w1UStZti/Vg+M3efO+uVN/U2Xg05DcosvyMdYHBIA4/A00
+qkJXZc/ON5uvw6hxqw+z64XCRm2kIKfcyRBp0RjVN/2egKhpBsCRlfYyIIo4c1S8
+MnNdmr0h1LYlv88x+AqIBhguRD5QK49qcLK5qwnmG97PuJyfP7xSeNXxPyZ6Xy5O
+P/dbBjTo6QT4kBYa67mGlBeZdx7N5FO81qFDx670zcPk5F6CPgP1TbtSkmPF3aco
+PiADqqGVQCILU533H9lk7sAGaCbkp3cEjSYTF3vJPHxSQjD+CmhKZCAUjmllheOC
+JpYXQ/b0
+=rsBc
+-----END PGP SIGNATURE-----
