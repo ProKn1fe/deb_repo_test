@@ -5,20 +5,20 @@ Codename: universal
 Architectures: amd64 i386
 Components: main
 Description: Universal nginx repository
-Date: Sat, 24 Jun 2023 10:19:56 +0000
+Date: Sat, 24 Jun 2023 10:21:46 +0000
 MD5Sum:
- 66704e2a8fa5bb276a673e325f8f1386              234 Release
- 95397463f17523511de1c8d8ac62341e              596 main/binary-amd64/Packages
- 94af96367967164c6e3a626ff29152f1              441 main/binary-amd64/Packages.gz
+ 8065aa56e2decf5c871db4f9cc2cb13c              234 Release
+ 05cbe4a3a7cfeeac01b3c9d6104920e9             1213 main/binary-amd64/Packages
+ 1ac3b4e99f34fb4e153d6f91ba6e3d4b              620 main/binary-amd64/Packages.gz
 SHA1:
- 88a2a8a9eab80ee8b74aa092d6b12fc7372a9542              234 Release
- 6ef8bad76d036a391d2cd6a98ccb1caf7e51220e              596 main/binary-amd64/Packages
- d0630db1087192ec85aa7439c17defad90a547d1              441 main/binary-amd64/Packages.gz
+ c1b6369ebff060e5af4c07ab1968a65406359b44              234 Release
+ e7750ea5fa2478f826b13fd76540f7320965b405             1213 main/binary-amd64/Packages
+ 08479ff94c4a28b4ea6197e2ce26d732542ecc7a              620 main/binary-amd64/Packages.gz
 SHA256:
- 707d5159d61174cf1152e93f2e2a361829a083329e169a156d57a6e3565eda38              234 Release
- 4a8ca0f6072b5a56a436c14b54497326d4143e29238132a3603e1b0ce1fb67bc              596 main/binary-amd64/Packages
- 1f04a5650e5ce92836133dfcc677143d32345918363ece524df9f0bef0a82765              441 main/binary-amd64/Packages.gz
+ a6451075a9e34c49979f33c44c4b6d6eb0ba8f4bed063e8c9c42842eb3e80f6a              234 Release
+ 2153f3c91ca75ff42d3ee57ab502915f1399925dcbf9b8c613fbd64323e96d61             1213 main/binary-amd64/Packages
+ 1c64be08195fa8af9debf8fe45032f8f397208cf00ed53ae567c1c303b83c16f              620 main/binary-amd64/Packages.gz
 SHA512:
- 2ec9d53c9b9de6d331a598d4a70e1c95c32ac6cfb34f2557920f49235adb1b5c17906ecbdd8f50696c5588b08ba0ca92b58e0b5416de03f4a468193c94b728a8              234 Release
- 3510fa3641fb6ccc96b19040a421b5481cd4abb4a2b977a5a07cc034fa02ad22359925f9f1b6c1079ece77b05358d6630f25a3c5b3531224192e81098ae0249a              596 main/binary-amd64/Packages
- 25b2d1aa62a7f0bc2529fbf3dc91bec76a5d7ebaf270172f9b02cb7479148b280c1ff3ea1b7f7b3a9296659e669ef9716f1c659a54af2e6dac4e1d282d72afc8              441 main/binary-amd64/Packages.gz
+ 6a950e8d291327e56045091dda12f0142d6fdf44805e3a33d41ec73451f99687942e7209645b44fdcd2cfc9cda3f945717c2be72094efbabaffccbc57fde1e37              234 Release
+ 6f39cdf8342aceacff9e918403f09c7fd0983339ca8a5ba8f22e8b33d0a2b4db5cd5b8d2abb4e5345ad4e36f80999288782368c7b78be8fedd7cfe41f80c2291             1213 main/binary-amd64/Packages
+ bcfc5e2d7663f8f0380c2b616b56e47ea1ee1eefd5ec0b7cd913dff7ce4866b9d0deeab24204a81c4dab7a89009fe0d02d46ece45d070252f4cbd037f3fc7fc6              620 main/binary-amd64/Packages.gz
